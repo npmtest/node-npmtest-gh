@@ -1,6 +1,6 @@
 # npmtest-gh
 
-#### test coverage for  [gh (v1.12.8)](http://nodegh.io)  [![npm package](https://img.shields.io/npm/v/npmtest-gh.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gh) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gh.svg)](https://travis-ci.org/npmtest/node-npmtest-gh)
+#### basic test coverage for  [gh (v1.12.8)](http://nodegh.io)  [![npm package](https://img.shields.io/npm/v/npmtest-gh.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gh) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gh.svg)](https://travis-ci.org/npmtest/node-npmtest-gh)
 
 #### GitHub command line tools.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-gh/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-gh/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gh/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gh/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gh/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gh/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-gh/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-gh/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gh/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gh/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-gh/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gh/build/coverage.html/index.html)
 
